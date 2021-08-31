@@ -9,4 +9,4 @@ checkLength() to check min and max length.
 checkEmail() to validate email with regex.
 checkPasswordsMatch() to match confirm password.
 
-You can simply click here to preview the web app: 
+You can simply click here to preview the web app: https://techiemokhele.github.io/lets-validate-the-form/
